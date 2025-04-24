@@ -36,6 +36,7 @@ By the end of this guide, you will:
 
 ## 📂 Folder & File Structure
 
+```text
 /earth-insights
 ├── backend
 │ ├── app
@@ -54,5 +55,6 @@ By the end of this guide, you will:
 │ │ └── globals.css
 │ └── tailwind.config.ts
 └── README.md
+```
 
 ---
